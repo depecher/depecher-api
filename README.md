@@ -1,2 +1,2 @@
-# depecherapi
+# depecher-api
 Depecher API
